@@ -14,7 +14,7 @@ greentor通过给pymysql打补丁,使pymysql在Tornado中的运行过程变为�
 ### 安装
 
 ```shell
-pip install git+https://github.com/zhu327/greentor.git
+pip install git+https://github.com/1260228859/greentor.git
 ```
 
 ### 使用
